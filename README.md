@@ -23,4 +23,4 @@ all that can work together to make some really interesting set bonuses!
 
 idea 4 level 3: verious gunpoweder related items
 machienery which allow for: blastmineing, a multiblock structure that blasts stuff below it.
- gunpowder manufacture, a mixing device that carefully combines sulfur from the nether, salt peater which you get from chicken poop, and coal powder! grinders, that allow for an example grinding coal, ores and other stuff with gunpowder blasts. rf generation, some sort of piston/rotary mechanisum that runs off of gunpowder.
+ gunpowder manufacture, a mixing device that carefully combines sulfur which you get from ghasts in the nether, salt peater which you get from chicken poop, and coal powder! grinders, that allow for an example grinding coal, ores and other stuff with gunpowder blasts. rf generation, some sort of piston/rotary mechanisum that runs off of gunpowder.
