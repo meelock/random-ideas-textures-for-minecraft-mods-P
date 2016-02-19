@@ -1,22 +1,24 @@
 first things first:
-this is just a repo of random ideas and textures (yeah idk why i made this) so some may be flawed or broken!
+this is just a repo of random ideas and textures (yeah IDK why I made this) so some may be flawed or broken!
 
 
 
-welp ideas here we come!
+welp, ideas here we come!
 
-idea 1 level 1: lazer/electric fences that use the ambient current of redstone.
-first they will just do dammage to every thing, then i will (maybe) add redstone consumsion,
-and then maybe after that player configureableity.
+idea 1 level 1: laser/electric fences that use the ambient current of Redstone.
+first they will just do damage to everything, then I will (maybe) add Redstone consumption,
+and then maybe after that player configurable.
+adding onto that, maybe tesla coils which shock mobs around them,
+maybe if I become a wizard I would add slab versions of the fences/and diagonal versions. 
 
 idea 2 level 2: plastic... plastic plastic plastic...
-soz i just really liked the plasticraft mod so basicly i would just add plastic then plastic tnt then kevlar armor,
-then automated plastic, then rubber, then oil refining and burning... welp im getting ahead of my self. :P
+soz I just really liked the plasticraft mod so basically I would just add plastic, then plastic TNT, then kevlar armor,
+then automated plastic, then rubber, then oil refining and burning... welp I'm getting ahead of myself. :P
 
 
 idea 3 level 2: runic dungeons... and lots of loots!
-basicly there are dungeons that spawn all around the world with verious weapons armor trinkets baubles,
-all that can work togather to make some really intresting setbounses!
+basically there are dungeons that spawn all around the world with various weapons armor trinkets baubles,
+all that can work together to make some really interesting set bonuses!
 
 
 idea 4 level 3: verious gunpoweder related items
